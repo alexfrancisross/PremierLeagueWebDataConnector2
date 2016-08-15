@@ -2,7 +2,7 @@
     // Create the connector object
     var myConnector = tableau.makeConnector();
     //var myProxy = 'http://cors.io/?u='
-	var myProxy = 'http://ec2-52-10-150-250.us-west-2.compute.amazonaws.com//proxy/proxy.php?u='
+    var myProxy = 'http://ec2-52-10-150-250.us-west-2.compute.amazonaws.com//proxy/proxy.php?u='
 
     // Define the schema
     myConnector.getSchema = function(schemaCallback) {
