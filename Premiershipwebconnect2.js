@@ -680,24 +680,24 @@
             alias: 'open_play_crosses',
             dataType: tableau.dataTypeEnum.int
         },{
-            id: 'big_chances_created',
-            alias: 'big_chances_created',
+            id: 'bps_big_chances_created',
+            alias: 'bps_big_chances_created',
             dataType: tableau.dataTypeEnum.int
         },{
-            id: 'clearances_blocks_interceptions',
-            alias: 'clearances_blocks_interceptions',
+            id: 'bps_clearances_blocks_interceptions',
+            alias: 'bps_clearances_blocks_interceptions',
             dataType: tableau.dataTypeEnum.int
         },{
-            id: 'recoveries',
-            alias: 'recoveries',
+            id: 'bps_recoveries',
+            alias: 'bps_recoveries',
             dataType: tableau.dataTypeEnum.int
         },{
-            id: 'key_passes',
-            alias: 'key_passes',
+            id: 'bps_key_passes',
+            alias: 'bps_key_passes',
             dataType: tableau.dataTypeEnum.int
         },{
-            id: 'tackles',
-            alias: 'tackles',
+            id: 'bps_tackles',
+            alias: 'bps_tackles',
             dataType: tableau.dataTypeEnum.int
         },{
             id: 'winning_goals',
